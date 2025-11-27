@@ -61,7 +61,7 @@ O período apresenta comportamento anômalo:
 
 Caso queira trocar ideias sobre análise de dados, logística portuária ou metodologia, fique à vontade para me chamar no LinkedIn.
 
-📌 **Artigo completo no LinkedIn:** [link]
+📌 **Artigo completo no LinkedIn:** [https://www.linkedin.com/pulse/sazonalidade-porto-de-santos-o-impacto-dos-feriados-na-helena-barboza-3aeyf/]
 
 
 
